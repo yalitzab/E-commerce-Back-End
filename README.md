@@ -22,8 +22,6 @@ To start the server, in the command line run:
 
 * npm start
 
-
-
 ## Tools Used
 
 * [Node](https://nodejs.org/en/docs/)
@@ -31,6 +29,8 @@ To start the server, in the command line run:
 * [MySQL](https://www.npmjs.com/package/mysql2)
 * [Sequelize](https://www.npmjs.com/package/sequelize)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
+
+______
 
 ## Links
 
